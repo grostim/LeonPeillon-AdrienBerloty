@@ -1,0 +1,16 @@
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.release.tex
+*.release.pdf
+.DS_Store
+__pycache__/
+tmp/
+output/
+/Leon_Peillon_Adrien_Berloty.pdf
+/Leon_Peillon_Adrien_Berloty.epub
+/Leon_Peillon_Adrien_Berloty.md

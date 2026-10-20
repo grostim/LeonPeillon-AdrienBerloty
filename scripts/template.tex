@@ -1,0 +1,45 @@
+\documentclass[11pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\geometry{margin=2.5cm,headheight=14pt}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\hypersetup{hidelinks,pdftitle={$title$},pdfauthor={$author$}}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\releaseversion}{Édition de travail}
+\setlength{\emergencystretch}{3em}
+% Titres compacts pour éviter les fins de chapitre réduites à quelques lignes.
+\makeatletter
+\def\@makechapterhead#1{\vspace*{12pt}{\parindent\z@\raggedright
+\normalfont\ifnum\c@secnumdepth>\m@ne
+\Large\bfseries\@chapapp\space\thechapter\par\nobreak\vskip14pt\fi
+\huge\bfseries #1\par\nobreak\vskip24pt}}
+\makeatother
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Léon Peillon}
+\fancyhead[R]{\small Adrien Berloty (1851 - 1905)}
+\fancyfoot[C]{\thepage}
+\begin{document}
+\begin{titlepage}
+\centering
+\vspace*{1.8cm}
+{\Large Léon Peillon\par}
+\vspace{1.8cm}
+{\Huge\bfseries Adrien Berloty\par}
+\vspace{0.8cm}
+{\LARGE 1851 - 1905\par}
+\vfill
+{\large 1er mai 1993\par}
+\vspace{1cm}
+{\small Transcription des 31 pages du tapuscrit familial\par}
+{\small \releaseversion\par}
+\end{titlepage}
+\tableofcontents
+\clearpage
+$body$
+\end{document}

@@ -13,7 +13,7 @@ Adaptation des [conventions de FelixBerloty](https://github.com/grostim/FelixBer
 ## Présentation
 
 - Classe LaTeX `report`, A4, 11 pt, Latin Modern, Babel français, marges de 2,5 cm, en-têtes discrets et pagination propre à l'édition.
-- La couverture est représentée par une page de titre : Adrien Berloty, 1851 - 1905, Léon Peillon, 1er mai 1993 (date complète donnée à la fin du texte).
+- La couverture est représentée par une page de titre : Adrien Berloty, 1851 - 1905, Léon Peillon, 1er mai 1993 (date complète donnée à la fin du texte). La mention « Transcription des 31 pages du tapuscrit familial » est retirée à la demande de l’utilisateur du 21 octobre 2026.
 - Le tapuscrit n'a pas de chapitres nommés. Les sept titres ajoutés sont documentés ici comme éditoriaux. Ils reprennent les principales transitions du texte ; les séparateurs originaux sont conservés ou représentés par ces transitions.
 - Aucun portrait, QR code ou identifiant Gramps n'est inventé ou repris d'un autre document.
 
@@ -21,16 +21,32 @@ Adaptation des [conventions de FelixBerloty](https://github.com/grostim/FelixBer
 
 - Conserver les paragraphes, le vocabulaire, les tournures, les abréviations, les unités (Ha, Km, H, F) et la forme des dates et montants.
 - Corriger les erreurs mécaniques I/O pour 1/0, espaces, césures, coquilles et accords manifestes. Réunir les mots séparés par la machine ou l'OCR ; ligatures françaises et ponctuation lisible.
-- Passer les noms propres en casse usuelle, sans inventer leur identification. Conserver notamment Dumoustier (p. 9), Lantigne, Prudhommat, Lubresac, Koningsee, Einselden, Trillon et Clémenceau. La variante Dumoustier et les lectures des communes des Escouannes sont signalées en note.
-- Conserver les dates et âges contradictoires : Joséphine Coste 1855/1862, « classe 91 », Bonaventure 23 ans et Marie 12 ans. Ne pas appliquer les corrections ou divergences d'une autre transcription à celle-ci.
+- Passer les noms propres en casse usuelle, sans inventer leur identification. Corriger Dumoustier en Demoustier (p. 9), conformément à la réponse de l’utilisateur du 21 octobre 2026. Les lectures douteuses sont consignées dans le relevé éditorial, puis soumises à l’utilisateur une par une.
+- Corriger le décès de Joséphine Coste en 1855 conformément à la réponse de l’utilisateur du 21 octobre 2026. Conserver, conformément aux réponses de l’utilisateur : « à peine 12 ans » pour Adrien, « classe 91 », « neuf ans plus tôt », les âges de 23 et 35 ans pour Bonaventure et de 12 ans pour Marie. Ne pas appliquer les corrections ou divergences d'une autre transcription à celle-ci.
 - Les hypothèses d'appartenance à la Congrégation, les motifs de retraite et les appréciations politiques restent les propos de l'auteur.
+
+- Corriger « Rérum Noverrum » en « Rerum novarum » aux deux occurrences (p. 20 et 21), conformément à la réponse de l’utilisateur du 21 octobre 2026.
+
+- Corriger « Prudhommat » en « Prudhomat » (p. 12), conformément à la réponse de l’utilisateur du 21 octobre 2026.
+
+- Corriger « Lubresac » en « Loubressac » (p. 12), conformément à la réponse de l’utilisateur du 21 octobre 2026.
+
+- Corriger « Lantigne » en « Lantignié » aux deux occurrences (p. 7 et 11), conformément à la réponse de l’utilisateur du 21 octobre 2026.
+
+- Corriger « Einselden » en « Einsiedeln » (p. 28), conformément à la réponse de l’utilisateur du 21 octobre 2026.
+
+- Corriger « Koningsee » en « Königssee » (p. 25), conformément à la réponse de l’utilisateur du 21 octobre 2026.
+
+- Corriger « Clémenceau » en « Clemenceau » (p. 28), conformément à la réponse de l’utilisateur du 21 octobre 2026.
+
+- Corriger « Trillon » en « Trion » (p. 28), conformément à la réponse de l’utilisateur du 21 octobre 2026.
 
 ## Manuscrit et notes
 
 - Intégrer les corrections lisibles : « et à » (p. 10), « Saint-Just » (p. 22), « peu lumineuses » (p. 23), « politiques ou religieuses » (p. 24), « ne » (p. 25), « nue propriété » (p. 31).
 - La note manuscrite sur Isaac Coste (p. 9) est conservée comme note de l'auteur.
 - Le soulignement « maire de Saint-Antoine d'Ouroux » (p. 21) est rendu en gras.
-- Toutes les notes ajoutées commencent par « (Note du transcripteur) ». Les incohérences sont signalées sans arbitrage historique ; le relevé éditorial distingue ces constatations des vérifications non effectuées.
+- À la demande de l’utilisateur, aucune note de bas de page ajoutée par le transcripteur ne figure dans l’édition. Seule la note manuscrite de l’original sur Isaac Coste est conservée. Les points douteux sont traités dans le relevé éditorial et discutés un par un dans la conversation avant correction du texte.
 
 ## Construction et versionnement
 

@@ -20,32 +20,47 @@ La série IMGP0125.JPG à IMGP0156.JPG est continue : 32 images, soit couverture
 | 25 | « ne » dans « sans que rien ne fît prévoir » | Correction intégrée |
 | 31 | « nue » dans « pleine ou nue propriété » | Correction intégrée |
 
-## Contradictions internes conservées
+## Contradictions internes et décisions
 
 | Pages | Constat | Traitement |
 | --- | --- | --- |
-| 1 et 2 | Joséphine, grand-mère maternelle : décès en 1855 puis Joséphine Coste décédée en 1862 | Deux dates conservées, notes croisées |
-| 1 et 2 | Naissance le 3 février 1851, « à peine 12 ans » le 1er décembre 1862 | Formule conservée et annotée : 11 ans et près de 10 mois selon ces dates |
-| 5 | « classe 91 » dans le récit de décembre 1870 | Lecture conservée et signalée ; pas de substitution conjecturale |
-| 2, 11 et 19 | Bonaventure né en 1854, donné âgé de 23 ans fin 1878 et 35 ans en octobre 1890 | Décalages apparents d'un an signalés |
-| 6 et 12 | Accord après mai 1871, annoncé « neuf ans plus tôt » en octobre 1879 | Formulation conservée, intervalle apparent d'environ huit ans signalé |
-| 10 et 19 | Marie née début 1878, donnée âgée de 12 ans en septembre 1891 | Âge conservé et annoté |
+| 1 et 2 | Joséphine, grand-mère maternelle : décès en 1855 puis Joséphine Coste décédée en 1862 | Résolu : 1855 confirmé par l’utilisateur le 21 octobre 2026 ; seconde mention corrigée |
+| 1 et 2 | Naissance le 3 février 1851, « à peine 12 ans » le 1er décembre 1862 | Résolu : « à peine 12 ans » conservé à la demande de l’utilisateur le 21 octobre 2026 |
+| 5 | « classe 91 » dans le récit de décembre 1870 | Résolu : « classe 91 » conservé à la demande de l’utilisateur le 21 octobre 2026 |
+| 2, 11 et 19 | Bonaventure né en 1854, donné âgé de 23 ans fin 1878 et 35 ans en octobre 1890 | Résolu : « 23 ans » fin 1878 et « 35 ans » en octobre 1890 conservés à la demande de l’utilisateur le 21 octobre 2026 |
+| 6 et 12 | Accord après mai 1871, annoncé « neuf ans plus tôt » en octobre 1879 | Résolu : « neuf ans plus tôt » conservé à la demande de l’utilisateur le 21 octobre 2026 |
+| 10 et 19 | Marie née début 1878, donnée âgée de 12 ans en septembre 1891 | Résolu : « 12 ans » conservé à la demande de l’utilisateur le 21 octobre 2026 |
 
-## Lectures et formulations à revoir
+## Lectures corrigées et formulations conservées
 
-- **Dumoustier**, début p. 9 : variante dactylographiée de Demoustier conservée et notée.
-- **Prudhommat et Lubresac**, p. 12 : graphies conservées sans identification géographique imposée.
-- **Rérum Noverrum**, p. 20 et 21 : graphie du titre conservée, note de lecture p. 20.
-- Autres noms conservés selon le tapuscrit : Lantigne, Saint-Régis-du-Coin « en Haute Loire », Byre, Koningsee, Einselden, Trillon, Clémenceau. Leur exactitude géographique ou historique n'a pas été contrôlée.
+- **Dumoustier**, début p. 9 : corrigé en **Demoustier** à la demande de l’utilisateur le 21 octobre 2026.
+- **Prudhommat**, p. 12 : corrigé en **Prudhomat** à la demande de l’utilisateur le 21 octobre 2026.
+- **Lubresac**, p. 12 : corrigé en **Loubressac** à la demande de l’utilisateur le 21 octobre 2026.
+- **Rérum Noverrum**, p. 20 et 21 : corrigé en **Rerum novarum** aux deux occurrences, à la demande de l’utilisateur le 21 octobre 2026.
+- Autres noms conservés selon le tapuscrit : Saint-Régis-du-Coin « en Haute Loire », Byre. Leur exactitude géographique ou historique n'a pas été contrôlée.
 - « cent ans plus tard » pour l'héritage des petits-enfants, p. 14 ; « plus de 200 morts », p. 21 ; chronologie associée à Combes, p. 25 et 27 : affirmations conservées comme propos de l'auteur, sans certification externe.
 - Le décès d'Adrien est explicitement daté du **15 décembre 1905**, p. 29. Aucune date de décès tirée d'un autre texte n'est substituée ici.
 - La date de décès de Scholastique est **1883** aux p. 1 et 14 ; aucune incohérence 1893/1883 n'a été importée d'un autre document.
 - La description de la succession finale et le nom J.P. Boffard sont reproduits selon le document, sans rapprochement automatique avec un autre acte.
 
+- **Lantigne**, p. 7 et 11 : corrigé en **Lantignié** aux deux occurrences, à la demande de l’utilisateur le 21 octobre 2026.
+
+- **Einselden**, p. 28 : corrigé en **Einsiedeln** à la demande de l’utilisateur le 21 octobre 2026.
+
+- **Koningsee**, p. 25 : corrigé en **Königssee** à la demande de l’utilisateur le 21 octobre 2026.
+
+- **Clémenceau**, p. 28 : corrigé en **Clemenceau** à la demande de l’utilisateur le 21 octobre 2026.
+
+- **Trillon**, p. 28 : corrigé en **Trion** à la demande de l’utilisateur le 21 octobre 2026.
+
 ## Découpage éditorial
 
 Sept chapitres éditoriaux ajoutés : avant-propos et origines ; succession de François Félix ; mariage et acquisitions ; notaire et homme public ; retraite et Massues ; dernières années ; portrait et succession. Les chapitres ne constituent pas des titres originaux.
 
+## État de la révision
+
+Le 21 octobre 2026, les dix notes ajoutées par le transcripteur ont été retirées de l’édition à la demande de l’utilisateur. La seule note de bas de page conservée est celle de l’original sur Isaac Coste, sans commentaire éditorial ajouté. Tous les points qui avaient motivé les notes ajoutées ont été examinés un par un avec l’utilisateur. Les corrections acceptées sont intégrées ; les autres formulations sont conservées conformément à ses réponses. Les affirmations historiques non vérifiées restent celles de l’auteur.
+
 ## Validation locale
 
-Les originaux sont inchangés ; les 31 pages sont représentées dans le Markdown et le LaTeX. Le PDF de 25 pages, l'EPUB et le Markdown sont construits localement. La version initiale a été inspectée visuellement ; après suppression de l’avertissement à la demande de l’utilisateur, les pages liminaires ont été contrôlées à nouveau ; la compilation finale ne signale aucun avertissement de débordement. La structure ZIP/XML de l'EPUB et la cohérence des 11 notes ont été contrôlées. Le workflow est préparé pour GitHub ; son exécution distante et la publication restent non effectuées.
+Les originaux et les 31 repères de pages sont conservés. Les exports PDF, EPUB et Markdown sont régénérés après retrait des notes ajoutées.

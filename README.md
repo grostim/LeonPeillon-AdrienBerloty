@@ -54,6 +54,6 @@ Les commits éventuels doivent suivre les Conventional Commits en français. Le 
 
 ## État et provenance
 
-31/31 pages de texte transcrites et relues sur les photographies, ainsi que les mentions de couverture. Les corrections manuscrites lisibles sont intégrées ; les incohérences internes sont signalées sans correction historique conjecturale. Sept chapitres éditoriaux facilitent la lecture. La dernière page porte la signature et la date du 1er mai 1993.
+31/31 pages de texte transcrites et relues sur les photographies, ainsi que les mentions de couverture. Les corrections manuscrites lisibles sont intégrées ; les incohérences internes sont consignées dans le relevé éditorial et soumises à l’utilisateur une par une avant correction. Seule la note de bas de page figurant dans l’original est conservée. Sept chapitres éditoriaux facilitent la lecture. La dernière page porte la signature et la date du 1er mai 1993.
 
 Fichiers fournis : `IMGP0125.JPG` à `IMGP0156.JPG`, conservés octet pour octet. Les photographies arrivent dans un ordre mélangé dans le message ; l'ordre des noms correspond à l'ordre de lecture. Un OCR français local a servi de brouillon auxiliaire, repris par lecture des images. Les jugements et hypothèses du récit restent ceux de Léon Peillon. Une relecture humaine des noms propres rares et des actes cités reste utile. Aucune licence de redistribution des archives familiales n'est présumée.

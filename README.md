@@ -2,6 +2,16 @@
 
 Transcription intégrale du document familial signé **Léon Peillon, le 1er mai 1993**, d'après les 32 photographies fournies : une couverture et 31 pages de texte, dont la dernière sans numéro imprimé.
 
+## Télécharger la dernière release
+
+| Format | Téléchargement direct |
+| --- | --- |
+| PDF | [Télécharger le PDF](https://github.com/grostim/LeonPeillon-AdrienBerloty/releases/latest/download/Leon_Peillon_Adrien_Berloty.pdf) |
+| EPUB | [Télécharger l’EPUB](https://github.com/grostim/LeonPeillon-AdrienBerloty/releases/latest/download/Leon_Peillon_Adrien_Berloty.epub) |
+| Markdown | [Télécharger le Markdown](https://github.com/grostim/LeonPeillon-AdrienBerloty/releases/latest/download/Leon_Peillon_Adrien_Berloty.md) |
+
+Ces liens pointent toujours vers les fichiers de la dernière release publiée par la pipeline. Le dépôt étant privé, une connexion GitHub avec accès au dépôt est nécessaire.
+
 ## Structure
 
 ```text

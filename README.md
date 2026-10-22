@@ -1,18 +1,6 @@
 # Adrien Berloty (1851 - 1905) - Léon Peillon
 
-Transcription intégrale du tapuscrit familial signé **Léon Peillon, le 1er mai 1993**, d'après les 32 photographies fournies : une couverture et 31 pages de texte, dont la dernière sans numéro imprimé.
-
-Projet préparé sur le modèle de [grostim/FelixBerloty](https://github.com/grostim/FelixBerloty) : originaux conservés, conventions éditoriales, source LaTeX principal à la racine, signalements d'erreurs et pipeline GitHub Actions produisant PDF, EPUB et Markdown avec versionnement automatique des releases. Aucun portrait n'est ajouté : les pièces fournies n'en contiennent pas.
-
-## Lire et corriger
-
-- [Transcription modifiable](transcription.md).
-- [Source LaTeX généré](<Adrien Berloty.tex>).
-- [Conventions de transcription](CONVENTIONS_TRANSCRIPTION.md).
-- [Relevé éditorial et points à revoir](RELEVE_EDITORIAL.md).
-- [Correspondance et empreintes des originaux](Originaux/manifest.csv).
-
-Après construction locale : [PDF](output/pdf/Leon_Peillon_Adrien_Berloty.pdf), [EPUB](output/Leon_Peillon_Adrien_Berloty.epub), [Markdown](output/Leon_Peillon_Adrien_Berloty.md). Les sorties sont exclues du versionnement. Elles sont également prévues comme artefacts de CI et pièces jointes des releases, après publication effective sur GitHub. Aucun dépôt distant n'est créé par la construction.
+Transcription intégrale du document familial signé **Léon Peillon, le 1er mai 1993**, d'après les 32 photographies fournies : une couverture et 31 pages de texte, dont la dernière sans numéro imprimé.
 
 ## Structure
 
